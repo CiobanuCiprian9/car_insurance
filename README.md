@@ -14,7 +14,7 @@ A FastAPI backend for managing cars, insurance policies, and claims
 
 ---
 
-\## Tech Stack
+## Tech Stack
 
 - Python
 - FastApi
